@@ -9,13 +9,15 @@ This is an Archi plugin that enables generation of .docx word documents from Arc
 This is an extension to Archi that enables generation of .docx word documents from Archi Archimate models.  Its work in progress.
 
 ## How to use it
-You can download the latest binary release on the Torchlight downloads page [here](https://www.archimatetool.com/plugins). Follow the instructions there on how to install it and get started.
+You can download the latest binary release on the Torchlight downloads page [here](
+https://github.com/archilight/torchlight-report/releases/tag/v0.1)
+Follow the instructions there on how to install it and get started.
 
 The Wiki pages provide full documentation on how to use plugin and document markup language.
 
 ## Roadmap
 
-The plugin is work in progress and development is incremental and interative.  Next iteration will look a PowerPoint generation.  More features for document generation and user experience improvements are also in the pipeline.
+The plugin is work in progress and development is incremental and iterative.  Next iteration will look a PowerPoint generation.  More features for document generation and user experience improvements are also in the pipeline.
 
 ## Archi
 Archi® is a free, open source, cross-platform tool and editor to create ArchiMate models.
