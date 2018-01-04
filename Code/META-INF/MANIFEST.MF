@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Torchlight Archilight Document Generator
+Bundle-SymbolicName: com.torchlight.report;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: Jeff Parker
+Bundle-Localization: plugin
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Eclipse-BundleShape: dir
+Bundle-ClassPath: com.torchlight.report.jar,
+ lib/fr.opensagres.xdocreport.converter-1.0.4.jar,
+ lib/fr.opensagres.xdocreport.core-1.0.4.jar,
+ lib/fr.opensagres.xdocreport.document.docx-1.0.4.jar,
+ lib/freemarker-2.3.20.jar,
+ lib/fr.opensagres.xdocreport.template.freemarker-1.0.4.jar,
+ lib/fr.opensagres.xdocreport.document-1.0.4.jar,
+ lib/fr.opensagres.xdocreport.template-1.0.4.jar
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ com.archimatetool.editor
+Bundle-Activator: com.torchlight.report.TorchLightPlugin
+Bundle-ActivationPolicy: lazy

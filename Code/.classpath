@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="lib/fr.opensagres.xdocreport.converter-1.0.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/fr.opensagres.xdocreport.core-1.0.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/fr.opensagres.xdocreport.document.docx-1.0.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/freemarker-2.3.20.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/fr.opensagres.xdocreport.template.freemarker-1.0.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/fr.opensagres.xdocreport.document-1.0.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/fr.opensagres.xdocreport.template-1.0.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
